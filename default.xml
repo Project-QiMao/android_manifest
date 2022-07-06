@@ -11,7 +11,7 @@
            sync-d="true"
            sync-f="true"/>
 
-  <superproject name="platform/superproject" remote="aosp" revision="android-12.1.0_r9" />
+  <superproject name="platform/superproject" remote="aosp" revision="android-12.1.0_r10" />
   <contactinfo bugurl="go/repo-bug" />
 
   <project path="build/make" name="platform/build" groups="pdk" >
