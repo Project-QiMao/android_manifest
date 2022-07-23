@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="github"
+           fetch="https://github.com/" />
+
+  <remote  name="gitlab"
+           fetch="https://gitlab.com/" />
+
+  <remote  name="qimao"
+           fetch="https://github.com/Project-QiMao"
+           revision="refs/heads/seagull" />
+
+  <project path="manifest" name="android_manifest" remote="qimao" />
+
+</manifest>
