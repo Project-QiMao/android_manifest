@@ -39,7 +39,6 @@
   <!-- hardware repos -->
   <project path="hardware/interfaces" name="android_hardware_interfaces" remote="qimao" />
   <project path="hardware/libhardware" name="android_hardware_libhardware" remote="qimao" />
-  <project path="hardware/xiaomi" name="hardware_xiaomi" remote="qimao" />
 
   <!-- package repos -->
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="qimao" />
