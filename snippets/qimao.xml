@@ -32,6 +32,22 @@
   <!-- device repos -->
   <project path="device/qimao/sepolicy" name="android_device_qimao_sepolicy" remote="qimao" />
 
+  <!-- external repos -->
+  <project path="external/ant-wireless/ant_client" name="android_external_ant-wireless_ant_client" remote="qimao" />
+  <project path="external/ant-wireless/ant_native" name="android_external_ant-wireless_ant_native" remote="qimao" />
+  <project path="external/ant-wireless/ant_service" name="android_external_ant-wireless_ant_service" remote="qimao" />
+  <project path="external/ant-wireless/hidl" name="android_external_ant-wireless_hidl" remote="qimao" />
+  <project path="external/e2fsprogs" name="android_external_e2fsprogs" remote="qimao" />
+  <project path="external/erofs-utils" name="android_external_erofs-utils" remote="qimao" />
+  <project path="external/exfatprogs" name="android_external_exfatprogs" remote="qimao" />
+  <project path="external/f2fs-tools" name="android_external_f2fs-tools" remote="qimao" />
+  <project path="external/gptfdisk" name="android_external_gptfdisk" remote="qimao" />
+  <project path="external/mksh" name="android_external_mksh" remote="qimao" />
+  <project path="external/jemalloc_new" name="android_external_jemalloc_new" remote="qimao" />
+  <project path="external/json-c" name="android_external_json-c" remote="qimao" />
+  <project path="external/selinux" name="android_external_selinux" remote="qimao" />
+  <project path="external/tinycompress" name="android_external_tinycompress" remote="qimao" />
+
   <!-- framework repos -->
   <project path="frameworks/base" name="android_frameworks_base" remote="qimao" />
   <project path="frameworks/native" name="android_frameworks_native" remote="qimao" />
@@ -47,6 +63,9 @@
   <project path="system/core" name="android_system_core" remote="qimao" />
   <project path="system/sepolicy" name="android_system_sepolicy" remote="qimao" />
   <project path="system/vold" name="android_system_vold" remote="qimao" />
+
+  <!-- prebuilt repos -->
+  <project path="prebuilts/tools-extras" name="android_prebuilts_tools-extras" remote="qimao" />
 
   <!-- vendor repos -->
   <project path="vendor/qimao" name="android_vendor_qimao" remote="qimao" />
