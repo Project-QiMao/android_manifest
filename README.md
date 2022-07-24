@@ -35,3 +35,11 @@ lunch qimao_<$device_name>-<$buildtype>
 ```bash
 mka qimao
 ```
+
+## Credits
+- [AcmeUI](https://github.com/AcmeUI)
+- [ArrowOS](https://github.com/ArrowOS)
+- [LineageOS](https://github.com/LineageOS)
+- [PixelExperience](https://github.com/PixelExperience)
+- [Project-Kaleidoscope](https://github.com/Project-Kaleidoscope)
+- [ProtonAOSP](https://github.com/ProtonAOSP)
