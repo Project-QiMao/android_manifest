@@ -63,6 +63,7 @@
   <!-- package repos -->
   <project path="packages/apps/Chromium" name="android_packages_apps_Chromium" remote="qimao-gitlab" clone-depth="1" />
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="qimao" />
+  <project path="packages/apps/GameSpace" name="android_packages_apps_GameSpace" remote="qimao" />
   <project path="packages/apps/Launcher3" name="android_packages_apps_Launcher3" remote="qimao" />
 
   <!-- system repos -->
