@@ -75,5 +75,6 @@
 
   <!-- vendor repos -->
   <project path="vendor/qimao" name="android_vendor_qimao" remote="qimao" />
+  <project path="vendor/QiMaoSettings" name="android_vendor_QiMaoSettings" remote="qimao" />
 
 </manifest>
