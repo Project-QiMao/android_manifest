@@ -55,6 +55,7 @@
   <!-- framework repos -->
   <project path="frameworks/base" name="android_frameworks_base" remote="qimao" />
   <project path="frameworks/native" name="android_frameworks_native" remote="qimao" />
+  <project path="frameworks/opt/net/ims" name="android_frameworks_opt_net_ims" remote="qimao" />
 
   <!-- hardware repos -->
   <project path="hardware/interfaces" name="android_hardware_interfaces" remote="qimao" />
