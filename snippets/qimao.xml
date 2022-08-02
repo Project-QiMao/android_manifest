@@ -75,6 +75,9 @@
   <!-- prebuilt repos -->
   <project path="prebuilts/tools-extras" name="android_prebuilts_tools-extras" remote="qimao" />
 
+  <!-- tools repos -->
+  <project path="tools/extract-utils" name="android_tools_extract-utils" remote="qimao" />
+
   <!-- vendor repos -->
   <project path="vendor/qimao" name="android_vendor_qimao" remote="qimao" />
   <project path="vendor/QiMaoSettings" name="android_vendor_QiMaoSettings" remote="qimao" />
